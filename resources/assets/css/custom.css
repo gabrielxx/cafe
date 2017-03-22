@@ -1,0 +1,46 @@
+.btn-add{
+    float: right;
+    margin-top: 13px;
+}
+
+.btn-add-center{
+	position: absolute !important;
+	left: 50% !important;
+	margin-left: -17px !important;
+}
+
+.t-i-40{
+	text-indent: 40px;
+}
+
+.actionBar{
+	text-align: left !important;
+}
+
+.sweet-alert .lead {
+    font-size: 13px;
+}
+
+
+.sweet-alert h2 {
+    font-size: 16px;
+    font-weight: 400;
+    position: relative;
+    z-index: 1;
+}
+
+td{
+    vertical-align: middle !important;
+}
+
+.btn-shadow-gray{
+    box-shadow: 0px 1px 1px gray !important;
+}
+
+.btn-shadow-black{
+    box-shadow: 0px 1px 1px black !important;
+}
+
+.hand{
+    cursor: pointer;
+}
